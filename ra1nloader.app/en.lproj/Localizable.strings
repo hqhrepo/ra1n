@@ -1,0 +1,45 @@
+"loader" = "Ra1nLoader";
+"cancel" = "Cancel";
+"exit" = "Exit";
+"loading" = "Loading";
+
+"unknown_error" = "Unknown Error";
+"server_error_code" = "Server Error";
+"bootstrap_error_code" = "Bootstrap Error";
+"restore_error_code" = "Restore Error";
+"loader_too_old_error" = "This version of Loader is too old. Please download the latest version of checkra1n.";
+
+"section_install" = "Install";
+"section_troubleshoot" = "Restore";
+
+"restore_system" = "Restore System Jailbreak";
+"restore_system_explanation" = "Uninstall jailbreak files and other changes made to the operating system, without erasing your data. This will reboot your %@.";
+
+"uninstall_loader" = "Uninstall Loader";
+"uninstall_loader_explanation" = "You can uninstall Loader once you’ve finished using it.";
+
+"install_bootstrap" = "Install %@";
+"install_bootstrap_using" = "Install %@ using %@";
+"reinstall_bootstrap" = "Reinstall %@";
+"reinstall_bootstrap_using" = "Reinstall %@ using %@";
+"bootstrap_already_installed" = "%@ is already installed.";
+
+"base_system" = "System";
+"downloading_bootstrap" = "Downloading %@";
+"extracting_bootstrap" = "Extracting %@";
+"installing_bootstrap" = "Installing %@";
+
+"invalid_action" = "Invalid Action";
+"success" = "Success Cydia";
+"general_error" = "General";
+"device_already_bootstrapped" = "Device is already bootstrapped";
+"mount_error" = "Unable to remount rootfs read-write";
+"missing_bootstrap" = "Missing Bootstrap";
+"bootstrap_extraction_error" = "Problem encountered extracting bootstrap.";
+"invalid_dpkg_entry" = "Invalid dpkg entry detected.";
+"error_in_status_file" = "Encountered an error in status file.";
+"rootfs_restore_failed" = "Unable to restore rootfs.";
+"bootstrap_signature_invalid" = "Bootstrap signature is invalid.";
+"error_snapshot_missing" = "System Snapshot is missing.";
+"error_ota" = "OTA is prestaged to rootfs.  Remove OTA and reboot to stock then try again.";
+"error_connection" = "There was a problem with the connection to loaderd.";
